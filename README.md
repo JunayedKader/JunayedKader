@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Junayed Kader
 #### I am Competitive Programmer, Android Developer and System Administrator 
-![I am Competitive Programmer, Android Developer and System Administrator ](https://media-exp1.licdn.com/dms/image/D5616AQGMQ0CH3W8qCw/profile-displaybackgroundimage-shrink_350_1400/0/1665504657459?e=1672272000&v=beta&t=7zjKFyEmz2M3mn_68jt9RVwlkHS8wNz1ilpxQLbiJdo)
+![I am Competitive Programmer, Android Developer and System Administrator ]
 ![Profile views](https://gpvc.arturio.dev/JunayedKader)
 
 I am a goal-oriented person. Passionate about creating many applications for android devices and solutions that use the latest technology, especially Computer network-related technology, best practices, and 100% effectiveness. 
