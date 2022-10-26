@@ -25,7 +25,6 @@ I am a goal-oriented person. Passionate about creating many applications for and
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JunayedKader)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunayedKader&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -34,8 +33,6 @@ I am a goal-oriented person. Passionate about creating many applications for and
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JunayedKader)  
 
-![GitHub metrics](https://metrics.lecoq.io/JunayedKader)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JunayedKader)  
 
 
