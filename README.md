@@ -9,7 +9,7 @@ Skills: C++, Java , Python ,OOP, RedHat Linux , Ansible, Puppet, Computer Networ
 - 🔭 I’m currently working on CCNA 
 - 🌱 I’m currently learning Computer Networks 
 - 👯 I’m looking to collaborate on Github 
-
+![Profile views](https://gpvc.arturio.dev/JunayedKader) 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JunayedKader)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/junayed-kader-23a467183/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/junayedkader.jk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kader_junayed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/JunayedKader)  
 
@@ -26,4 +26,4 @@ Skills: C++, Java , Python ,OOP, RedHat Linux , Ansible, Puppet, Computer Networ
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JunayedKader)  
 
-![Profile views](https://gpvc.arturio.dev/JunayedKader)  
+
