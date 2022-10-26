@@ -31,7 +31,7 @@ I am a goal-oriented person. Passionate about creating many applications for and
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JunayedKader&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JunayedKader)  
+
 
 
 
