@@ -1,4 +1,4 @@
-### Hi there 👋, I am Junayed Kader
+### Hi there , I am Junayed Kader 👋
 
 <p>
 👑 I am Android Developer ,  System Administrator <br> 
