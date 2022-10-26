@@ -14,7 +14,7 @@ I am a goal-oriented person. Passionate about creating many applications for and
 ✅ C++, Java , Python  <br> 
 ✅ OOP <br>
 ✅ RedHat Linux , Ansible, Puppet<br>
-✅Computer Networks <br>
+✅ Computer Networks <br>
 ✅ Android Studio, Cisco Packet Tracer, Wireshark <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunayedKader&layout=compact)]
