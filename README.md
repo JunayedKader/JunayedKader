@@ -15,7 +15,8 @@ Skills: C++, Java , Python ,OOP, RedHat Linux , Ansible, Puppet, Computer Networ
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JunayedKader)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JunayedKader&show_icons=true&count_private=true)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JunayedKader&theme=transparent&show_icons=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JunayedKader)  
 
