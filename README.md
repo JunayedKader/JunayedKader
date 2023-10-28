@@ -1,21 +1,21 @@
 ### Hi there , I am Junayed Kader 👋
 
 <p>
-👑 I am Android Developer ,  System Administrator <br> 
-🖊️ Love to write code <br> 
+👑 I am a Python Developer <br> 
+🖊️ Love to work with IT Equipments <br> 
 🎤 Like to share my knowledge </p> 
 
 ![Profile views](https://gpvc.arturio.dev/JunayedKader)
 
 ## 🚀 About Me
-I am a goal-oriented person. Passionate about creating many applications for android devices and solutions that use the latest technology, especially Computer network-related technology, best practices, and 100% effectiveness. 
+I am a goal-oriented person. Passionate about creating many applications for Android devices and solutions that use the latest technology, especially Computer network-related technology, best practices, and 100% effectiveness. 
 
-## 👨‍💻 Skills & Experiance: 
+## 👨‍💻 Skills & Experience: 
 ✅ C++, Java , Python  <br> 
 ✅ OOP <br>
-✅ RedHat Linux , Ansible, Puppet<br>
+✅ RedHat Linux, Ansible, Puppet<br>
 ✅ Computer Networks <br>
-✅ Android Studio, Cisco Packet Tracer, Wireshark <br>
+✅ Eve-NG, Cisco Packet Tracer, Wireshark <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunayedKader&layout=compact)]
  
