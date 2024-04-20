@@ -1,7 +1,7 @@
 ### Hi there , I am Junayed Kader 👋
 
 <p>
-👑 I am a System Engineer and Python Developer <br> 
+👑 I am IT System Engineer and Python Developer <br> 
 🖊️ Love to work with IT Equipments <br> 
 🎤 Like to share my knowledge </p> 
 
